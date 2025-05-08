@@ -1,0 +1,6 @@
+.git
+.idea
+.vscode
+*.md
+client_output/
+server_data/
