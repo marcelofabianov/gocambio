@@ -60,3 +60,7 @@ gen
 # IDE
 .idea
 .vscode
+
+# tmp
+server_data
+client_output
